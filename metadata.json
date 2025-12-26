@@ -1,0 +1,7 @@
+{
+  "name": "Archivo Clínico Dental CEUMH",
+  "description": "Sistema avanzado de gestión de expedientes para clínicas dentales con integración de IA Gemini 3.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
